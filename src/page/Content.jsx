@@ -106,9 +106,18 @@ export const Content = () => {
 
         <div className="flex">
           <div>
-          <svg xmlns="http://www.w3.org/2000/svg" width="40" height="60" viewBox="0 0 60 60" fill="none">
-<path d="M18.5518 1.43163C18.0491 0.945471 17.3754 0.676717 16.6763 0.682968C15.9772 0.689218 15.308 0.969574 14.8138 1.46377C14.3192 1.95841 14.0388 2.6272 14.033 3.32628C14.0268 4.02539 14.2955 4.69908 14.7812 5.20217L23.5625 13.9834H8.6665C6.54513 13.9834 4.51028 14.8263 3.00982 16.3267C1.50936 17.8267 0.666504 19.8616 0.666504 21.9834V51.3171C0.666504 53.439 1.50936 55.4734 3.00982 56.9738C4.51028 58.4738 6.54513 59.3171 8.6665 59.3171H51.3339C53.4553 59.3171 55.4902 58.4738 56.9906 56.9738C58.4906 55.4734 59.3339 53.439 59.3339 51.3171V21.9834C59.3339 19.8616 58.4906 17.8267 56.9906 16.3267C55.4902 14.8263 53.4553 13.9834 51.3339 13.9834H36.4379L45.2192 5.20217C45.7049 4.69905 45.9737 4.02537 45.9679 3.32628C45.9616 2.62717 45.6808 1.9584 45.1866 1.46377C44.692 0.969574 44.0232 0.689219 43.3241 0.682968C42.625 0.676718 41.9513 0.945471 41.4487 1.43163L30.0007 12.8796L18.5518 1.43163ZM5.99977 21.9836C5.99977 21.2765 6.28057 20.5979 6.78102 20.0979C7.28102 19.5979 7.95919 19.3171 8.66628 19.3171H51.3337C52.0408 19.3171 52.719 19.5979 53.219 20.0979C53.719 20.5979 54.0002 21.2764 54.0002 21.9836V51.3173C54.0002 52.0245 53.719 52.7026 53.219 53.2026C52.719 53.703 52.0408 53.9838 51.3337 53.9838H8.66628C7.95913 53.9838 7.28102 53.703 6.78102 53.2026C6.28057 52.7026 5.99977 52.0244 5.99977 51.3173V21.9836Z" fill="white"/>
-</svg>
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="40"
+              height="60"
+              viewBox="0 0 60 60"
+              fill="none"
+            >
+              <path
+                d="M18.5518 1.43163C18.0491 0.945471 17.3754 0.676717 16.6763 0.682968C15.9772 0.689218 15.308 0.969574 14.8138 1.46377C14.3192 1.95841 14.0388 2.6272 14.033 3.32628C14.0268 4.02539 14.2955 4.69908 14.7812 5.20217L23.5625 13.9834H8.6665C6.54513 13.9834 4.51028 14.8263 3.00982 16.3267C1.50936 17.8267 0.666504 19.8616 0.666504 21.9834V51.3171C0.666504 53.439 1.50936 55.4734 3.00982 56.9738C4.51028 58.4738 6.54513 59.3171 8.6665 59.3171H51.3339C53.4553 59.3171 55.4902 58.4738 56.9906 56.9738C58.4906 55.4734 59.3339 53.439 59.3339 51.3171V21.9834C59.3339 19.8616 58.4906 17.8267 56.9906 16.3267C55.4902 14.8263 53.4553 13.9834 51.3339 13.9834H36.4379L45.2192 5.20217C45.7049 4.69905 45.9737 4.02537 45.9679 3.32628C45.9616 2.62717 45.6808 1.9584 45.1866 1.46377C44.692 0.969574 44.0232 0.689219 43.3241 0.682968C42.625 0.676718 41.9513 0.945471 41.4487 1.43163L30.0007 12.8796L18.5518 1.43163ZM5.99977 21.9836C5.99977 21.2765 6.28057 20.5979 6.78102 20.0979C7.28102 19.5979 7.95919 19.3171 8.66628 19.3171H51.3337C52.0408 19.3171 52.719 19.5979 53.219 20.0979C53.719 20.5979 54.0002 21.2764 54.0002 21.9836V51.3173C54.0002 52.0245 53.719 52.7026 53.219 53.2026C52.719 53.703 52.0408 53.9838 51.3337 53.9838H8.66628C7.95913 53.9838 7.28102 53.703 6.78102 53.2026C6.28057 52.7026 5.99977 52.0244 5.99977 51.3173V21.9836Z"
+                fill="white"
+              />
+            </svg>
           </div>
           <div>
             <h3 className="heading-color">
@@ -161,9 +170,18 @@ export const Content = () => {
 
         <div className="flex">
           <div>
-          <svg xmlns="http://www.w3.org/2000/svg" width="40" height="58" viewBox="0 0 58 58" fill="none">
-<path d="M29.0002 0.186279C13.1122 0.186279 0.186523 13.112 0.186523 29C0.186523 44.888 13.1122 57.8137 29.0002 57.8137C44.8882 57.8137 57.814 44.888 57.814 29C57.814 13.112 44.8882 0.186279 29.0002 0.186279ZM29.0002 52.0537C16.2894 52.0537 5.94652 41.7118 5.94652 29C5.94652 16.2882 16.2889 5.94628 29.0002 5.94628C41.7116 5.94628 52.054 16.2887 52.054 29C52.054 41.7113 41.7116 52.0537 29.0002 52.0537Z" fill="white"/>
-</svg>
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="40"
+              height="58"
+              viewBox="0 0 58 58"
+              fill="none"
+            >
+              <path
+                d="M29.0002 0.186279C13.1122 0.186279 0.186523 13.112 0.186523 29C0.186523 44.888 13.1122 57.8137 29.0002 57.8137C44.8882 57.8137 57.814 44.888 57.814 29C57.814 13.112 44.8882 0.186279 29.0002 0.186279ZM29.0002 52.0537C16.2894 52.0537 5.94652 41.7118 5.94652 29C5.94652 16.2882 16.2889 5.94628 29.0002 5.94628C41.7116 5.94628 52.054 16.2887 52.054 29C52.054 41.7113 41.7116 52.0537 29.0002 52.0537Z"
+                fill="white"
+              />
+            </svg>
           </div>
           <div>
             <h3 className="heading-color">
@@ -174,23 +192,36 @@ export const Content = () => {
       </div>
       <div>
         <div className="form">
-          <h4 style={{ color: "gray", marginLeft: "67px", marginTop: "40px" ,paddingTop:"20px"}}>
+          <h4
+            style={{
+              color: "gray",
+              marginLeft: "67px",
+              marginTop: "40px",
+              paddingTop: "20px",
+            }}
+          >
             select your subscription plan
           </h4>
           <div className="radio-container">
-            <div className="radio-option">
+            <div className="radio-option" >
               <input
                 type="radio"
-                value="option1"
-                checked={selectedOption === "option1"}
+                value="199"
+                checked={selectedOption === "199"}
                 disabled={true}
                 onChange={handleOptionChange}
               />
-              <div className="radio-button"></div>
-              <span>12 Months Subscription</span>
-              <span style={{ marginLeft: "71px" }}>
-                Total <span class="rupee-amount"> 199</span>
-              </span>
+              {/* <div className="radio-button"></div> */}
+              <div style={{display:"flex",justifyContent:"space-between",gap:"60px"}}>
+              <div>
+                <span style={{color:"gray"}} >12 Months Subscription</span>
+                </div>
+                <div>
+                <span >
+                  Total <span class="rupee-amount"> 199</span>
+                </span>
+              </div>
+              </div>
             </div>
             <div className="radio-option">
               {/* <div>RECOMENDED</div> */}
@@ -202,7 +233,7 @@ export const Content = () => {
               />
               <div className="radio-button"></div>
               <span>12 Months Subscription</span>
-              <span style={{ marginLeft: "71px" }}>
+              <span style={{ marginLeft: "60px" }}>
                 Total <span class="rupee-amount"> 179</span> <br />{" "}
                 <span class="rupee-amount"> 15/mo</span>
               </span>
@@ -216,7 +247,7 @@ export const Content = () => {
               />
               <div className="radio-button"></div>
               <span>6 Months Subscription</span>
-              <span style={{ marginLeft: "80px" }}>
+              <span style={{ marginLeft: "65px" }}>
                 Total <span class="rupee-amount"> 149</span> <br />
                 <span class="rupee-amount"> 25/mo</span>
               </span>
@@ -234,7 +265,7 @@ export const Content = () => {
               />
               <div className="radio-button"></div>
               <span>3 Months Subscription</span>
-              <span style={{ marginLeft: "80px" }}>
+              <span style={{ marginLeft: "65px" }}>
                 Total <span class="rupee-amount"> 99</span> <br />{" "}
                 <span class="rupee-amount"> 33/mo</span>
               </span>
@@ -242,35 +273,43 @@ export const Content = () => {
           </div>
           <br />
           <hr style={{ width: "90%" }} />
-          <span style={{marginLeft:"29px"}}>subscription fee</span>
-          <span style={{marginLeft:"150px"}} class="rupee-amount"> 18500</span>
+          <span style={{ marginLeft: "29px" }}>subscription fee</span>
+          <span style={{ marginLeft: "150px" }} class="rupee-amount">
+            {" "}
+            18500
+          </span>
           <div className="radio-option">
-          
-            <div style={{display:"flex"}}>
+            <div style={{ display: "flex" }}>
               <div>
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="20"
-                height="24"
-                viewBox="0 0 24 24"
-                fill="none"
-              >
-                <path
-                  d="M11 7V13L16.2 16.1L17 14.9L12.5 12.2V7H11ZM20 12V18H22V12H20ZM20 20V22H22V20H20ZM18 20C16.3 21.3 14.3 22 12 22C6.49998 22 1.99998 17.5 1.99998 12C1.99998 6.5 6.49998 2 12 2C16.8 2 20.9 5.4 21.8 10H19.7C18.8 6.6 15.7 4 12 4C7.59998 4 3.99998 7.6 3.99998 12C3.99998 16.4 7.59998 20 12 20C14.4 20 16.5 18.9 18 17.3V20Z"
-                  fill="#DE4313"
-                />
-              </svg>
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                >
+                  <path
+                    d="M11 7V13L16.2 16.1L17 14.9L12.5 12.2V7H11ZM20 12V18H22V12H20ZM20 20V22H22V20H20ZM18 20C16.3 21.3 14.3 22 12 22C6.49998 22 1.99998 17.5 1.99998 12C1.99998 6.5 6.49998 2 12 2C16.8 2 20.9 5.4 21.8 10H19.7C18.8 6.6 15.7 4 12 4C7.59998 4 3.99998 7.6 3.99998 12C3.99998 16.4 7.59998 20 12 20C14.4 20 16.5 18.9 18 17.3V20Z"
+                    fill="#DE4313"
+                  />
+                </svg>
               </div>
               <div>
-              <span>offer valid till 25th March 2023</span>
-              <span style={{marginLeft:"35px"}} class="rupee-amount"> 18401</span>
+                <span>offer valid till 25th March 2023</span>
+                <span style={{ marginLeft: "35px" }} class="rupee-amount">
+                  {" "}
+                  -18401
+                </span>
               </div>
             </div>
             <div></div>
           </div>
           <br />
-          <span style={{marginLeft:"29px"}}>Total (incl. of 18% GST)</span>
-          <span class="rupee-amount" style={{marginLeft:"100px"}}> {selectedOption}</span>
+          <span style={{ marginLeft: "29px" }}>Total (incl. of 18% GST)</span>
+          <span class="rupee-amount" style={{ marginLeft: "100px" }}>
+            
+            {Math.round(selectedOption*0.9)}
+          </span>
 
           <div
             className="b"
@@ -293,8 +332,8 @@ export const Content = () => {
                 width: "70%",
                 height: "50%",
                 textAlign: "center",
-                paddingTop:"2px",
-                cursor:"pointer"
+                paddingTop: "2px",
+                cursor: "pointer",
               }}
             >
               CANCEL
@@ -309,15 +348,18 @@ export const Content = () => {
                 width: "70%",
                 height: "50%",
                 textAlign: "center",
-                paddingTop:"2px",
-                cursor:'pointer'
+                paddingTop: "2px",
+                cursor: "pointer",
               }}
             >
               PROCEED TO PAY
             </div>
           </div>
-          <img style={{marginLeft:"21px"}} src="https://github.com/santoshsen96/edyoda/assets/112757984/8d66ec4c-e1cb-4f34-86bb-985468297d10" alt="" />
-          
+          <img
+            style={{ marginLeft: "21px" }}
+            src="https://github.com/santoshsen96/edyoda/assets/112757984/8d66ec4c-e1cb-4f34-86bb-985468297d10"
+            alt=""
+          />
         </div>
       </div>
     </div>

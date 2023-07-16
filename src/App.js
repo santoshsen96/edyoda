@@ -6,8 +6,8 @@ import { Content } from "./page/Content";
 function App() {
   return (
     <div className="App">
-    <Navbar/>
-     <Content/>
+      <Navbar/>
+     <Content/> 
     </div>
   );
 }

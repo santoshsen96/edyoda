@@ -210,13 +210,6 @@ flex-shrink: 0; */
 .radio-option.selected .radio-button {
     border-color: #f00; 
   }
-
-  
-    /* display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 16px;
-    align-self: stretch; */
   
 
 .b-1{
@@ -229,14 +222,6 @@ flex-shrink: 0; */
 
   
   
-/* Top
-72px
-Left
-1269px
-Radius
-8px
-Padding
-32px, 24px, 32px, 24px
-Gap
-28px */
+
 }
+
